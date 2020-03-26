@@ -13,8 +13,7 @@ Introduction
     :target: https://travis-ci.com/adafruit/Adafruit_Blinka
     :alt: Build Status
 
-This repository contains a selection of packages mirroring the CircuitPython API
-on hosts running micropython. Working code exists to emulate the CircuitPython packages;
+This repository is for hosts running CPython or Micropython and contains a selection of packages that emulate the CircuitPython API. Working code exists to emulate the following CircuitPython packages:
 
 * **board** - breakout-specific pin identities
 * **microcontroller** - chip-specific pin identities
